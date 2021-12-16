@@ -15,7 +15,7 @@
 }
 </script>
 </head>
-<form action="Indexhtml" method="get">
+<form action="Index.html" method="get">
 Username : <input type="text" name="username">
 Password : <input type="password" name="password">
 <input type="submit" name="submit" value="Login"> 
